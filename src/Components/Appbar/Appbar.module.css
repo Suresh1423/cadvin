@@ -1,0 +1,12 @@
+.control {
+    display: flex;
+    padding: var(--mantine-spacing-md) var(--mantine-spacing-md);
+    border-radius: var(--mantine-radius-md);
+    font-weight: 150;
+    font-size:large;
+    color: rgb(71, 69, 69);
+  }
+
+  .a{
+    color: rgb(11, 36, 44);
+  }
